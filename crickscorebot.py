@@ -4,7 +4,7 @@ import json
 import time
 import telegram
 
-token = "ADD TOKEN"
+token = "8569783040:AAGkMsclkof_S_xpTO-w--6NTTIM-rGmKTI"
 bot = telegram.Bot(token)
 scorelist = [0]*100
 prevdata = ""
