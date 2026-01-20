@@ -47,6 +47,6 @@ while True:
                         msg = msg + "Score Info: "+isLive['scoreInfo'] + "\n"
 
                 if flag == True:
-                   output = bot.send_message(chat_id="ADD CHAT ID", text=msg)
+                   output = bot.send_message(chat_id="6385553722", text=msg)
 
                 count = count+1
